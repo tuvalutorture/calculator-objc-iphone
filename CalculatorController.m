@@ -33,7 +33,7 @@
 	NSString *value = [display text];
 	if (wasLastButtonCalculation) { currentOperator = nil; priorBuffer = 0.0; }
 	wasLastButtonCalculation = NO; 
-	if ([value length] >= 18 && !clearable) return;
+	if ([value length] >= 7 && !clearable) return;
 	if (([value isEqualToString:@"0"]) || clearable) {priorBuffer = [[display text] doubleValue]; [display setText:(value = ([[sender titleForState:UIControlStateNormal] isEqualToString:@"."]) ? @"0." : @"")];}
 	if ([[sender titleForState:UIControlStateNormal] isEqualToString:@"."] && [[value componentsSeparatedByString:@"."] count] > 1) return;
 	clearable = NO;
