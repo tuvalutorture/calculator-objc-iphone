@@ -65,7 +65,8 @@
 						</object>
 						<int key="IBUITextAlignment">2</int>
 						<bool key="IBUIClearsOnBeginEditing">YES</bool>
-						<float key="IBUIMinimumFontSize">2.400000e+01</float>
+						<bool key="IBUIAdjustsFontSizeToFit">YES</bool>
+						<float key="IBUIMinimumFontSize">1.200000e+01</float>
 						<object class="IBUITextInputTraits" key="IBUITextInputTraits"/>
 					</object>
 					<object class="IBUIButton" id="965106776">

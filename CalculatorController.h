@@ -16,8 +16,10 @@
 + (id)divideNumber:		(NSNumber*)num1 with:(NSNumber*)num2;
 + (id)multiplyNumber:	(NSNumber*)num1 with:(NSNumber*)num2;
 
++ (NSString*)getButtonString:(id)button;
+- (NSString*)displayText;
+- (void)setDisplayText:(NSString*)string;
 - (void)updateDisplay:(double)number;
-- (double)getDisplayNum;
 
 - (IBAction)invokeNumberButton:		(id)sender;
 - (IBAction)invokeOperatorButton:	(id)sender;
