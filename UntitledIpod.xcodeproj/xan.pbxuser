@@ -83,7 +83,7 @@
 		comments = "warning: no '-cell' method found";
 		fRef = 23AE75992FE8EF3D00CD5F23 /* CalculatorController.m */;
 		rLen = 0;
-		rLoc = 36;
+		rLoc = 31;
 		rType = 1;
 	};
 	23AE75CA2FE8F8CC00CD5F23 /* PBXTextBookmark */ = {
@@ -91,7 +91,7 @@
 		comments = "error: incompatible types in assignment";
 		fRef = 23AE75992FE8EF3D00CD5F23 /* CalculatorController.m */;
 		rLen = 1;
-		rLoc = 36;
+		rLoc = 31;
 		rType = 1;
 	};
 	23AE75CB2FE8F8CC00CD5F23 /* PBXTextBookmark */ = {
@@ -99,7 +99,7 @@
 		fRef = 23AE75992FE8EF3D00CD5F23 /* CalculatorController.m */;
 		name = "CalculatorController.m: 74";
 		rLen = 0;
-		rLoc = 3746;
+		rLoc = 3769;
 		rType = 0;
 		vrLen = 968;
 		vrLoc = 1425;
@@ -109,7 +109,7 @@
 		fRef = 23AE75992FE8EF3D00CD5F23 /* CalculatorController.m */;
 		name = "CalculatorController.m: 26";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1644;
 		rType = 0;
 		vrLen = 1425;
 		vrLoc = 0;
@@ -141,7 +141,7 @@
 		fRef = 23AE75992FE8EF3D00CD5F23 /* CalculatorController.m */;
 		name = "CalculatorController.m: 74";
 		rLen = 0;
-		rLoc = 3746;
+		rLoc = 3769;
 		rType = 0;
 		vrLen = 749;
 		vrLoc = 1425;
@@ -151,7 +151,7 @@
 		fRef = 23AE75992FE8EF3D00CD5F23 /* CalculatorController.m */;
 		name = "CalculatorController.m: 28";
 		rLen = 0;
-		rLoc = 1408;
+		rLoc = 1649;
 		rType = 0;
 		vrLen = 1421;
 		vrLoc = 1069;
@@ -191,7 +191,7 @@
 		fRef = 23AE75992FE8EF3D00CD5F23 /* CalculatorController.m */;
 		name = "CalculatorController.m: 74";
 		rLen = 0;
-		rLoc = 3746;
+		rLoc = 3769;
 		rType = 0;
 		vrLen = 1062;
 		vrLoc = 1425;
@@ -211,7 +211,7 @@
 		fRef = 23AE75992FE8EF3D00CD5F23 /* CalculatorController.m */;
 		name = "CalculatorController.m: 28";
 		rLen = 0;
-		rLoc = 1408;
+		rLoc = 1649;
 		rType = 0;
 		vrLen = 1465;
 		vrLoc = 1069;
@@ -251,7 +251,7 @@
 		fRef = 23AE75992FE8EF3D00CD5F23 /* CalculatorController.m */;
 		name = "CalculatorController.m: 74";
 		rLen = 0;
-		rLoc = 3746;
+		rLoc = 3769;
 		rType = 0;
 		vrLen = 968;
 		vrLoc = 1425;
@@ -265,7 +265,7 @@
 		fRef = 23AE75992FE8EF3D00CD5F23 /* CalculatorController.m */;
 		name = "CalculatorController.m: 74";
 		rLen = 0;
-		rLoc = 3746;
+		rLoc = 3769;
 		rType = 0;
 		vrLen = 968;
 		vrLoc = 1425;
@@ -299,7 +299,7 @@
 		fRef = 23AE75992FE8EF3D00CD5F23 /* CalculatorController.m */;
 		name = "CalculatorController.m: 28";
 		rLen = 0;
-		rLoc = 1408;
+		rLoc = 1649;
 		rType = 0;
 		vrLen = 1421;
 		vrLoc = 1069;
@@ -343,7 +343,7 @@
 		fRef = 23AE75992FE8EF3D00CD5F23 /* CalculatorController.m */;
 		name = "CalculatorController.m: 28";
 		rLen = 0;
-		rLoc = 1408;
+		rLoc = 1649;
 		rType = 0;
 		vrLen = 1465;
 		vrLoc = 1069;
@@ -428,7 +428,7 @@
 		fRef = 23AE75992FE8EF3D00CD5F23 /* CalculatorController.m */;
 		name = "CalculatorController.m: 36";
 		rLen = 0;
-		rLoc = 1641;
+		rLoc = 1882;
 		rType = 0;
 		vrLen = 1235;
 		vrLoc = 1371;
